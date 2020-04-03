@@ -1,3 +1,4 @@
-# Thinkpython
-Python Challenges_ with Answers!
+
+Python Challenges!
+
 Great for practice on Python!!
