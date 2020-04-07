@@ -1,6 +1,6 @@
 
 # Cat_dog
-__________
+#__________
 # Return True if the string "cat" and "dog" appear the same number
 # of times in the given string.
 
